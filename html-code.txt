@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Working on Amazon S3 Service</title>
+  </head>
+  <body>
+    <h1>This is sample statis webpage deployment</h1>
+    <p>This is a simple HTML web page.</p>
+  </body>
+</html>
